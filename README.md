@@ -3,7 +3,7 @@ Neural Network to Clustering
 
 The following code leverages a Neural Network (Inception V3) to classify images using vectors, then runs these image vectors through a Kmeans clustering.
 
-The goal of this exercise is to see how good the NN + K-Means duo is in batching batching and identifying pictures.
+The goal of this exercise is to see how good the NN + K-Means duo is in batching and identifying pictures.
 
 Image Dataset:  cifar10, minist; we could import any other dataset if needed
 Neural Network:  InceptionV3.  This is trained using the imagenet training set
